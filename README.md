@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Web%20API-8E44AD?style=for-the-badge&logo=web&logoColor=white" alt="Web API"/>
 <img src="https://img.shields.io/badge/Web%20Servisler-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web Services"/>
 <img src="https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+
 <!-- 🧱 Veri Tabanı Teknolojileri -->
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -28,6 +29,8 @@
 <!-- 🖥️ Cross-Platform UI -->
 <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
+<img src="https://img.shields.io/badge/WinUI%203-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI 3"/>
 
 <!-- 🌐 Frontend -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
